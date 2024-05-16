@@ -69,19 +69,3 @@ Please don't this is just for demonstration. If you are interested in extending 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-This README provides a comprehensive overview of the Movie Reviewer API, including its features, setup instructions, and deployment options. It serves as a starting point for both users and contributors looking to explore and enhance this innovative application leveraging Next.js and OpenAI APIs.
-
-Citations:
-[1] https://community.openai.com/t/nextjs-openai-api-full-stack-tutorial/46563
-[2] https://codyde.io/story-nextjs-openai
-[3] https://www.reddit.com/r/nextjs/comments/13sjw9v/proposal_writer_using_nextjs_and_open_ais_api/
-[4] https://github.com/gannonh/openai-api-next-starter
-[5] https://github.com/SpellcraftAI/nextjs-openai/blob/canary/README.md
-[6] https://stackoverflow.com/questions/77397517/making-api-calls-to-open-ai-using-next-js-and-react
-[7] https://www.youtube.com/watch?v=JdsSDxTRdeU
-[8] https://community.openai.com/t/openai-assistant-starter-kit/697060
-[9] https://www.quora.com/How-important-is-it-to-create-a-Readme-document-before-or-during-a-software-dev-project
-[10] https://learn.microsoft.com/en-us/python/api/overview/azure/ai-textanalytics-readme?view=azure-python
